@@ -44,6 +44,7 @@ h2 {
 }
 
 .phone {
+	display: inline-block;
 	position: absolute;
 	right: 0;
 	bottom: 0;
@@ -51,14 +52,11 @@ h2 {
 
 .phone a {
 	text-decoration: none;
-}
-
-.numb1 {
 	font-size: 13px;
-	color: #8E8E8E;  
+	color: #8E8E8E; 
 }
 
-.numb2 {
+.phone span {
 	font-size: 21px;
 	color:#707070;
 }

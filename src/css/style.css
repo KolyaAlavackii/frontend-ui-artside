@@ -82,7 +82,7 @@ h2 {
 }
 
 
-.section {
+.command {
 	width: 245px;
 	display: inline-block;
 	vertical-align: top;
@@ -95,22 +95,22 @@ h2 {
 }
 
 .article p {
-	padding-bottom: 16px;
+	margin-bottom: 16px;
 }
 
-.section li {
+.command li {
 	overflow:hidden;
 	padding-bottom: 16px;		
 }
 
-.section img {
+.command img {
 	float: left;
 	width: 100px;
 	height: 100px;
 }
 
- .section p {
- 	padding-left: 105px;
+ .command .text {
+ 	padding-left: 112px;
  }
 
  .article strong {

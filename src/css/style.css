@@ -156,15 +156,15 @@ h2 {
 	margin-right: 20px;
 }
 
-.side a {
+.side {
 	text-decoration: none;
 	color: #707070;	
 }
 
-.vacancies a {
+.vacancies {
 	color: #707070;	
 }
 
-.vacancies a:hover {
+.vacancies:hover {
 	color: #363636;
 }

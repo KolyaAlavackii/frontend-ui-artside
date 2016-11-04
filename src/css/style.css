@@ -108,6 +108,8 @@ h2 {
 
 .section img {
 	float: left;
+	width: 100px;
+	height: 100px;
 }
 
  .section p {
@@ -167,5 +169,4 @@ h2 {
 
 .vacancies a:hover {
 	color: #363636;
-	font-size: 15px;
 }

@@ -154,15 +154,11 @@ h2 {
 	vertical-align: top;
 	margin-top: 40px;
 	margin-right: 20px;
+	color: #707070;	
 }
 
 .side {
-	text-decoration: none;
-	color: #707070;	
-}
-
-.vacancies {
-	color: #707070;	
+	text-decoration: none;	
 }
 
 .vacancies:hover {

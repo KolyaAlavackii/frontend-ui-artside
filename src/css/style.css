@@ -44,7 +44,6 @@ h2 {
 }
 
 .phone {
-	display: inline-block;
 	position: absolute;
 	right: 0;
 	bottom: 0;
@@ -128,6 +127,7 @@ h2 {
 }
 
 .menu-list a {
+	text-transform: uppercase;
 	text-decoration: none;
 	font-size: 40px;
 	color: #646464;

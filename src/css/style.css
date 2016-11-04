@@ -103,17 +103,25 @@ h2 {
 	padding-bottom: 16px;		
 }
 
-.command img {
+.img-blok {
 	float: left;
-	width: 100px;
-	height: 100px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-color: #363636;
 }
 
- .command .text {
+.command .img-blok img {
+	float: left;
+	min-width: 100px;
+	height: auto;
+}
+
+.command .text {
  	padding-left: 112px;
  }
 
- .article strong {
+.article strong {
  	font-weight:bold;
  }
 

@@ -35,7 +35,7 @@ h2 {
 	margin-bottom: 95px;
 }
 
-.header .logotip  {
+.header .logo {
 	width: 102px;
 	height: 63px;
 	position: absolute;
@@ -82,7 +82,7 @@ h2 {
 }
 
 
-.command {
+.team {
 	width: 245px;
 	display: inline-block;
 	vertical-align: top;
@@ -98,7 +98,7 @@ h2 {
 	margin-bottom: 16px;
 }
 
-.command li {
+.team li {
 	overflow:hidden;
 	padding-bottom: 16px;		
 }
@@ -111,13 +111,21 @@ h2 {
     background-color: #363636;
 }
 
-.command .img-blok img {
+.team img {
 	float: left;
-	min-width: 100px;
-	height: auto;
+	width: auto;
+	height: 100%;
 }
 
-.command .text {
+.team .right {
+	transform:translate(10px);
+}
+
+.team .left {
+	transform:translate(-30px);
+} 
+
+.team .text {
  	padding-left: 112px;
  }
 
